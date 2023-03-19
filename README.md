@@ -6,7 +6,7 @@
 - `solution.ipynb` - small project report and a code written in `Python`
 
 ## Dataset description
-Dataset is available for download [here]().
+Dataset is available for download [here](https://drive.google.com/file/d/1kRCQxylihAxSgHr1qvjP5y2oG1I4aFk_/view?usp=share_link).
 - `actual_id` -- unique customer id
 - `period_end` -- i-th period
 - `revenue_lastyear` -- revenue in one year until i-th period
